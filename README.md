@@ -22,7 +22,7 @@
 
 [cts-wiki]: https://github.com/tony19/appveyor-userscripts/wiki/GitHub-code-colors
 [cts-raw]: https://raw.githubusercontent.com/tony19/appveyor-userscripts/master/appveyor-console-timestamps.user.js
-[cts-gf]: https://greasyfork.org/en/scripts/
+[cts-gf]: https://greasyfork.org/en/scripts/26995-appveyor-console-timestamp
 
 ## Updating
 
