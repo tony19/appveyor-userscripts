@@ -1,0 +1,8 @@
+{
+  "name": "appveyor-userscripts",
+  "version": "1.0.0",
+  "description": "Userscripts to add functionality to AppVeyor",
+  "repository": "git@github.com:tony19/appveyor-userscripts.git",
+  "author": "Tony Trinh <<tony19@gmail.com>>",
+  "license": "Creative Commons"
+}
