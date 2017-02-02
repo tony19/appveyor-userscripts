@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         AppVeyor Console Timestamp
-// @version      0.4
+// @version      0.5
 // @description  Displays line timestamps in the job console
 // @license      https://creativecommons.org/licenses/by-sa/4.0/
 // @namespace    http://github.com/tony19
@@ -8,8 +8,8 @@
 // @grant        GM_addStyle
 // @run-at       document-idle
 // @author       tony19@gmail.com
-// @updateURL    https://raw.githubusercontent.com/tony19/appveyor-userscripts/master/appveyor-console-timestamps.user.js
-// @downloadURL  https://raw.githubusercontent.com/Mottie/tony19/appveyor-userscripts/master/appveyor-console-timestamps.user.js
+// @updateURL    https://cdn.rawgit.com/tony19/appveyor-userscripts/7cfa0062/appveyor-console-timestamp.user.js
+// @downloadURL  https://cdn.rawgit.com/tony19/appveyor-userscripts/7cfa0062/appveyor-console-timestamp.user.js
 // ==/UserScript==
 /* global GM_addStyle */
 /* jshint esnext:true, unused:true */
