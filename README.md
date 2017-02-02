@@ -1,6 +1,6 @@
 # AppVeyor userscripts [![tag](https://img.shields.io/github/tag/tony19/appveyor-userscripts.svg)](https://github.com/tony19/appveyor-userscripts/tags)
 
-> Userscripts to add functionality to AppVeyor
+> Userscripts to add functionality to [AppVeyor](https://www.appveyor.com/)
 
 ## Installation
 
