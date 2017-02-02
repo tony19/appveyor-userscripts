@@ -17,10 +17,10 @@
 
 	| Userscript Wiki                        | Direct Install     | GreasyFork     | Created    | Updated    |
 	|----------------------------------------|:------------------:|:--------------:|:----------:|:----------:|
-	| [Console timestamps][cts-wiki]         | [install][cts-raw] | [site][cts-gf] | 2017.01.31 | 2017.01.31 |
+	| [Console Timestamps][cts-wiki]         | [install][cts-raw] | [site][cts-gf] | 2017.01.31 | 2017.01.31 |
 
 
-[cts-wiki]: https://github.com/tony19/appveyor-userscripts/wiki/GitHub-code-colors
+[cts-wiki]: https://github.com/tony19/appveyor-userscripts/wiki/Console-Timestamps
 [cts-raw]: https://cdn.rawgit.com/tony19/appveyor-userscripts/7cfa0062/appveyor-console-timestamp.user.js
 [cts-gf]: https://greasyfork.org/en/scripts/26995-appveyor-console-timestamp
 
