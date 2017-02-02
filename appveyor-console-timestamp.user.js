@@ -8,8 +8,8 @@
 // @grant        GM_addStyle
 // @run-at       document-idle
 // @author       tony19@gmail.com
-// @updateURL    https://cdn.rawgit.com/tony19/appveyor-userscripts/7cfa0062/appveyor-console-timestamp.user.js
-// @downloadURL  https://cdn.rawgit.com/tony19/appveyor-userscripts/7cfa0062/appveyor-console-timestamp.user.js
+// @updateURL    https://rawgit.com/tony19/appveyor-userscripts/master/appveyor-console-timestamp.user.js
+// @downloadURL  https://rawgit.com/tony19/appveyor-userscripts/master/appveyor-console-timestamp.user.js
 // ==/UserScript==
 /* global GM_addStyle */
 /* jshint esnext:true, unused:true */
