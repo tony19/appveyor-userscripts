@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         AppVeyor Console Timestamp
-// @version      0.5
+// @version      0.6
 // @description  Displays line timestamps in the job console
 // @license      https://creativecommons.org/licenses/by-sa/4.0/
 // @namespace    http://github.com/tony19
