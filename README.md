@@ -17,7 +17,7 @@
 
 	| Userscript Wiki                        | Direct Install     | GreasyFork     | Created    | Updated    |
 	|----------------------------------------|:------------------:|:--------------:|:----------:|:----------:|
-	| [Console Timestamps][cts-wiki]         | [install][cts-raw] | [site][cts-gf] | 2017.01.31 | 2017.01.31 |
+	| [Console Timestamps][cts-wiki]         | [install][cts-raw] | [site][cts-gf] | 2017.01.31 | 2018.06.29 |
 
 
 [cts-wiki]: https://github.com/tony19/appveyor-userscripts/wiki/Console-Timestamps
