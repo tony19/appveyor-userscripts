@@ -21,7 +21,7 @@
 
 
 [cts-wiki]: https://github.com/tony19/appveyor-userscripts/wiki/Console-Timestamps
-[cts-raw]: https://cdn.rawgit.com/tony19/appveyor-userscripts/7cfa0062/appveyor-console-timestamp.user.js
+[cts-raw]: https://cdn.rawgit.com/tony19/appveyor-userscripts/8e4a71cf785f562094c97bcf99ef6bc6020a7484/appveyor-console-timestamp.user.js
 [cts-gf]: https://greasyfork.org/en/scripts/26995-appveyor-console-timestamp
 
 ## Updating
