@@ -4,7 +4,7 @@
 // @description  Displays line timestamps in the job console
 // @license      https://creativecommons.org/licenses/by-sa/4.0/
 // @namespace    http://github.com/tony19
-// @match        https://ci.appveyor.com/*/build/job/*
+// @match        https://ci.appveyor.com/*/build/*
 // @grant        GM_addStyle
 // @run-at       document-idle
 // @author       tony19@gmail.com
